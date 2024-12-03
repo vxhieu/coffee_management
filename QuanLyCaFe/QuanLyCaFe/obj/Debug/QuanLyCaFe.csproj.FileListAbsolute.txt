@@ -1,0 +1,983 @@
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\QuanLyCaFe - 2409\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\Dự án tiêng\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\QuanLyCaFe - 2609\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.SuggestedBindingRedirects.cache
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.AssemblyReference.cache
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.AssemblyReference.cache
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.SuggestedBindingRedirects.cache
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\REXI\QuanLyCaFe\2_5_2022\2_5_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.SuggestedBindingRedirects.cache
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\REXI\QuanLyCaFe\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.AssemblyReference.cache
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\release 14_05\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\release 14_05 - Backup1\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe.config
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\QuanLyCaFe.pdb
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.IO.Packaging.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.pdb
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ClosedXML.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\EPPlus.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\ExcelNumberFormat.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Helpers.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Mvc.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.Razor.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csprojAssemblyReference.cache
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddProduct.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.AddTable.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Admin.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.QuanLys.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Login.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.Properties.Resources.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.ThongTinCaNhan.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.DanhMuc.aa.resources
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.GenerateResource.cache
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CoreCompileInputs.cache
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\aa\QuanLyCaFe.resources.dll
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.csproj.CopyComplete
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.exe
+D:\Dự án tiêng\release 05_06\14_05_2022\QuanLyCaFe\QuanLyCaFe\QuanLyCaFe\obj\Debug\QuanLyCaFe.pdb

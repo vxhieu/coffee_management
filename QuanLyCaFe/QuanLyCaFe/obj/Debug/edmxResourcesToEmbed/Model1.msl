@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CafeModelStoreContainer" CdmEntityContainer="CafeEntities">
+    <EntitySetMapping Name="Account">
+      <EntityTypeMapping TypeName="CafeModel.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="tenhienthi" ColumnName="tenhienthi" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password1" ColumnName="password1" />
+          <ScalarProperty Name="loaitaikhoan" ColumnName="loaitaikhoan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bill">
+      <EntityTypeMapping TypeName="CafeModel.Bill">
+        <MappingFragment StoreEntitySet="Bill">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ngayvao" ColumnName="ngayvao" />
+          <ScalarProperty Name="idBan" ColumnName="idBan" />
+          <ScalarProperty Name="trangthai" ColumnName="trangthai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Food">
+      <EntityTypeMapping TypeName="CafeModel.Food">
+        <MappingFragment StoreEntitySet="Food">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="tenmon" ColumnName="tenmon" />
+          <ScalarProperty Name="idCategory" ColumnName="idCategory" />
+          <ScalarProperty Name="dongia" ColumnName="dongia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FoodCategory">
+      <EntityTypeMapping TypeName="CafeModel.FoodCategory">
+        <MappingFragment StoreEntitySet="FoodCategory">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ten" ColumnName="ten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TableFood">
+      <EntityTypeMapping TypeName="CafeModel.TableFood">
+        <MappingFragment StoreEntitySet="TableFood">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="tenban" ColumnName="tenban" />
+          <ScalarProperty Name="trangthai" ColumnName="trangthai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThongTinBill">
+      <EntityTypeMapping TypeName="CafeModel.ThongTinBill">
+        <MappingFragment StoreEntitySet="ThongTinBill">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idBill" ColumnName="idBill" />
+          <ScalarProperty Name="idMon" ColumnName="idMon" />
+          <ScalarProperty Name="count" ColumnName="count" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="cafeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tenhienthi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="username" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password1" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="loaitaikhoan" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Bill">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ngayvao" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="idBan" Type="Int32" Nullable="false" />
+    <Property Name="trangthai" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TableFood" Relationship="Self.FK__Bill__trangthai__1A14E395" FromRole="Bill" ToRole="TableFood" />
+    <NavigationProperty Name="ThongTinBill" Relationship="Self.FK__ThongTinB__count__1DE57479" FromRole="Bill" ToRole="ThongTinBill" />
+  </EntityType>
+  <EntityType Name="Food">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tenmon" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="idCategory" Type="Int32" Nullable="false" />
+    <Property Name="dongia" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <NavigationProperty Name="FoodCategory" Relationship="Self.FK__Food__idCategory__173876EA" FromRole="Food" ToRole="FoodCategory" />
+    <NavigationProperty Name="ThongTinBill" Relationship="Self.FK__ThongTinB__idMon__1ED998B2" FromRole="Food" ToRole="ThongTinBill" />
+  </EntityType>
+  <EntityType Name="FoodCategory">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ten" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Food" Relationship="Self.FK__Food__idCategory__173876EA" FromRole="FoodCategory" ToRole="Food" />
+  </EntityType>
+  <EntityType Name="TableFood">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tenban" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="trangthai" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Bill" Relationship="Self.FK__Bill__trangthai__1A14E395" FromRole="TableFood" ToRole="Bill" />
+  </EntityType>
+  <EntityType Name="ThongTinBill">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idBill" Type="Int32" Nullable="false" />
+    <Property Name="idMon" Type="Int32" Nullable="false" />
+    <Property Name="count" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Bill" Relationship="Self.FK__ThongTinB__count__1DE57479" FromRole="ThongTinBill" ToRole="Bill" />
+    <NavigationProperty Name="Food" Relationship="Self.FK__ThongTinB__idMon__1ED998B2" FromRole="ThongTinBill" ToRole="Food" />
+  </EntityType>
+  <Association Name="FK__Bill__trangthai__1A14E395">
+    <End Role="TableFood" Type="Self.TableFood" Multiplicity="1" />
+    <End Role="Bill" Type="Self.Bill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TableFood">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Bill">
+        <PropertyRef Name="idBan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ThongTinB__count__1DE57479">
+    <End Role="Bill" Type="Self.Bill" Multiplicity="1" />
+    <End Role="ThongTinBill" Type="Self.ThongTinBill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bill">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ThongTinBill">
+        <PropertyRef Name="idBill" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Food__idCategory__173876EA">
+    <End Role="FoodCategory" Type="Self.FoodCategory" Multiplicity="1" />
+    <End Role="Food" Type="Self.Food" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FoodCategory">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Food">
+        <PropertyRef Name="idCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ThongTinB__idMon__1ED998B2">
+    <End Role="Food" Type="Self.Food" Multiplicity="1" />
+    <End Role="ThongTinBill" Type="Self.ThongTinBill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Food">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ThongTinBill">
+        <PropertyRef Name="idMon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="cafeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Account" EntityType="Self.Account" />
+    <EntitySet Name="Bill" EntityType="Self.Bill" />
+    <EntitySet Name="Food" EntityType="Self.Food" />
+    <EntitySet Name="FoodCategory" EntityType="Self.FoodCategory" />
+    <EntitySet Name="TableFood" EntityType="Self.TableFood" />
+    <EntitySet Name="ThongTinBill" EntityType="Self.ThongTinBill" />
+    <AssociationSet Name="FK__Bill__trangthai__1A14E395" Association="Self.FK__Bill__trangthai__1A14E395">
+      <End Role="TableFood" EntitySet="TableFood" />
+      <End Role="Bill" EntitySet="Bill" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ThongTinB__count__1DE57479" Association="Self.FK__ThongTinB__count__1DE57479">
+      <End Role="Bill" EntitySet="Bill" />
+      <End Role="ThongTinBill" EntitySet="ThongTinBill" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Food__idCategory__173876EA" Association="Self.FK__Food__idCategory__173876EA">
+      <End Role="FoodCategory" EntitySet="FoodCategory" />
+      <End Role="Food" EntitySet="Food" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ThongTinB__idMon__1ED998B2" Association="Self.FK__ThongTinB__idMon__1ED998B2">
+      <End Role="Food" EntitySet="Food" />
+      <End Role="ThongTinBill" EntitySet="ThongTinBill" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
